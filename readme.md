@@ -1,5 +1,8 @@
 <h1> Codes for Projected Topological Branes (PTB) </h1>
 
+[![DOI](https://zenodo.org/badge/514937102.svg)](https://zenodo.org/badge/latestdoi/514937102)
+
+
 **Preprint Link**: https://arxiv.org/abs/2112.06911
 
 **Journal**: Submitted for peer review in Communications Physics.
